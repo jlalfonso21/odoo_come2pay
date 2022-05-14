@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo_come2pay_odoo_come2pay,odoo_come2pay.odoo_come2pay,model_odoo_come2pay_odoo_come2pay,base.group_user,1,1,1,1
